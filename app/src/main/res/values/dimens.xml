@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="common_margin">10dp</dimen>
+    <dimen name="ic_check_size">20dp</dimen>
+    <dimen name="bg_dog_item_radius">5dp</dimen>
+</resources>
